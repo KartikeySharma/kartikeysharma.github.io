@@ -15,7 +15,7 @@ body {
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: rgba(0, 0, 0, 0.7); }
+  color: #00243a; }
   @media screen and (max-width: 992px) {
     body {
       font-size: 16px; } 
@@ -29,7 +29,7 @@ canvas {
   left: 0;
 }}
 canvas {
-  background: #222831;
+  background: #2d3745;
   position: fixed;
   top: 0;
   left: 0;
@@ -167,7 +167,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-color: #007CC7;
+    background-color: #006cae;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -180,7 +180,7 @@ figure {
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
       padding-top: 4em;
-	  background-color:  #007CC7;
+	  background-color:  #006cae;
         height: auto;
       } }
   #colorlib-aside .author-img {
@@ -235,7 +235,7 @@ figure {
         text-transform: uppercase;
         letter-spacing: 1px; }
         #colorlib-aside #colorlib-main-menu ul li a {
-          color: rgba(0, 0, 0, 0.7);
+          color: #00243a;
           text-decoration: none;
           position: relative;
           padding: 10px 0;
@@ -461,7 +461,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background-color: #007CC7;
+    background-color: #006cae;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -584,7 +584,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #007CC7; }
+  background: #006cae; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
@@ -728,7 +728,7 @@ font-family: "Montserrat", Georgia, serif;}
   position: absolute;
   display: block;
   width: 4px;
-  background: #007CC7;
+  background: #006cae;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -764,7 +764,7 @@ font-family: "Montserrat", Georgia, serif;}
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
     background: #ec5453; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #007CC7; }
+    background: #006cae; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
     background: #a84cb8; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
@@ -777,7 +777,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #007CC7;
+  background: #006cae;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -840,9 +840,9 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon2 i {
       color: #ec5453; }
   .services.color-3 {
-    border-bottom: 2px solid #007CC7; }
+    border-bottom: 2px solid #006cae; }
     .services.color-3 .icon2 i {
-      color: #007CC7; }
+      color: #006cae; }
   .services.color-4 {
     border-bottom: 2px solid #a84cb8; }
     .services.color-4 .icon2 i {
@@ -912,11 +912,11 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon:after {
       border-color: #ec5453 transparent transparent transparent; }
   .services.color-3 .icon {
-    background: #007CC7; }
+    background: #006cae; }
     .services.color-3 .icon:before {
-      border-color: transparent transparent #007CC7 transparent; }
+      border-color: transparent transparent #006cae transparent; }
     .services.color-3 .icon:after {
-      border-color: #007CC7 transparent transparent transparent; }
+      border-color: #006cae transparent transparent transparent; }
   .services.color-4 .icon {
     background: #a84cb8; }
     .services.color-4 .icon:before {
@@ -995,11 +995,11 @@ padding-top: 2px;}
 
 
   .progress-bar.color-3 {
-    background: #007CC7; }
+    background: #006cae; }
     .progress-bar.color-3:after {
-      background: #007CC7; }
+      background: #006cae; }
     .progress-bar.color-3 span {
-      color: #007CC7; }
+      color: #006cae; }
   .progress-bar.color-4 {
     background: #a84cb8; }
     .progress-bar.color-4:after {
@@ -1025,11 +1025,11 @@ padding-top: 2px;}
     .progress-bar.color-7 span {
       color: #ec5453; }
   .progress-bar.color-8 {
-    background: #007CC7; }
+    background: #006cae; }
     .progress-bar.color-8:after {
-      background: #007CC7; }
+      background: #006cae; }
     .progress-bar.color-8 span {
-      color: #007CC7; }
+      color: #006cae; }
   .progress-bar.color-9 {
     background: #a84cb8; }
     .progress-bar.color-9:after {
@@ -1076,7 +1076,7 @@ padding-top: 2px;}
     .colorlib-feature .colorlib-text h3 {
       font-weight: 500;
       margin-bottom: 20px;
-      color: rgba(0, 0, 0, 0.7);
+      color: #00243a;
       font-size: 14px;
       letter-spacing: 3px;
       text-transform: uppercase; }

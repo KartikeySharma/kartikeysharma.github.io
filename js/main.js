@@ -27,6 +27,11 @@
 
 	var fullHeight = function() {
 
+		// Go to top of screen when refresh clicked
+		$(window).on('beforeunload', function(){
+			$(window).scrollTop(0);
+		  });
+
 		if ( !isMobile.any() ) {
 			$('.js-fullheight').css('height', $(window).height());
 			$(window).resize(function(){
